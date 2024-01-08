@@ -32,7 +32,7 @@ This includes:
 
 ## Deployed Application
 
-(https://nat-rodriguez.github.io/1-challenge-semantic-code/)[The link to the deployed application can be found here here!]
+[The link to the deployed application can be found here here!](https://nat-rodriguez.github.io/1-challenge-semantic-code/)
 
 ## Notes
 
